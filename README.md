@@ -10,7 +10,7 @@ Generate predictions from the deployed API.
 
 Requirements
 
-# Make sure you have the following installed:
+# Requirements
 Python 3.8 or higher
 
 PyCaret
